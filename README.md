@@ -39,6 +39,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo154&repo=NgFood&theme=chartreuse-dark)](https://github.com/Leonardo154/NgFood)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo154&repo=NgFood-Backend&theme=chartreuse-dark)](https://github.com/Leonardo154/NgFood-Backend)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo154&repo=Desafios-DIO&theme=chartreuse-dark)](https://github.com/Leonardo154/Desafios-DIO)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo154&repo=jogo-da-velha&theme=chartreuse-dark)](https://github.com/Leonardo154/jogo-da-velha)
 
 
   
